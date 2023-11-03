@@ -6,7 +6,7 @@ body {
 }
 
 
-#mainHeading {
+h1 {
     font-family: 'paw_wow_blockregular';
     font-size: 115px;
     color: white;
@@ -34,7 +34,7 @@ li {
 img {
     width: 90px;
 }
-p {
+.funParagraph {
     line-height: 30px;
 }
 
@@ -122,6 +122,10 @@ span {
 #cone {
     margin-left: 40%;
     width: 300px;
+}
+#mainHeading {
+    text-align: center;
+    color: burlywood;
 }
 .retainer {
     position: relative;
