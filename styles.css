@@ -36,6 +36,7 @@ img {
 }
 .funParagraph {
     line-height: 30px;
+    color: green;
 }
 
 
@@ -125,7 +126,7 @@ span {
 }
 #mainHeading {
     text-align: center;
-    color: burlywood;
+    color: red;
 }
 .retainer {
     position: relative;
