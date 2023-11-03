@@ -34,12 +34,6 @@ li {
 img {
     width: 90px;
 }
-.funParagraph {
-    line-height: 30px;
-    color: green;
-}
-
-
 
 .container {
     display: inline-block;
@@ -91,7 +85,7 @@ p {
 span {
     color: burlywood;
 }
-#black {
+#white {
     color: white;
 }
 .shelter {
@@ -210,6 +204,10 @@ span {
     margin-left: 5%;
     color: white;
   }
+  .funParagraph {
+    line-height: 30px;
+    color: green;
+  }
 
 footer a {
     font-family: 'paw_wow_blockregular';
@@ -218,6 +216,7 @@ footer a {
     color: black;
     margin-left: 30px;
   }
+
 
 
 
